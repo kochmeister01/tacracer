@@ -38,7 +38,7 @@ echo -e "\033[1;31m ____________________________________________________________
 echo -e "\033[1;31m () \033[1;34mDas Spiel ist dann zu ende, wenn man über die Streckenbegrenzung fährt.\033[1;31m  ()"
 echo -e "\033[1;31m () \033[1;34mFür eine gemeisterte Linie gibt es 1 Punkt                             \033[1;31m  ()"
 echo -e "\033[1;31m () \033[1;34mWährend des Spiels erhöht sich der Schwierigkeitsgrad der Strecke.     \033[1;31m  ()"
-echo -e "\033[1;31m () \033[1;34mUnter dieser URL\033[1;31m http://apr \033[1;34mist es möglich denn Highscore zu betrachten.\033[1;31m ()"
+echo -e "\033[1;31m () \033[1;34mUnter dieser URL\033[1;31m http://www.yourinsecurewebserver.ch \033[1;34mist es möglich denn Highscore zu betrachten.\033[1;31m ()"
 echo -e "\033[1;31m °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°"
 echo -e "\033[0m"
 
